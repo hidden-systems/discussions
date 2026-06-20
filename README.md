@@ -27,7 +27,7 @@ Most of the systems that shape daily life — how food reaches your table, how w
 Each topic is presented as a navigable graph of connected concepts, letting you move from broad overview to granular mechanism at your own pace. We believe that understanding these systems is a precondition for caring about them, and caring is a precondition for change.
 
 **Live now:** [The American Food System](https://pages.hiddensystems.org)<br/>
-**Coming soon:** Water Systems · Energy Systems
+**Brainstorming:** Risk Mitigation Systems · Energy Systems
 
 ---
 
